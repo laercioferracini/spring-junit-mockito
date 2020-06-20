@@ -1,2 +1,3 @@
-# spring-junit-mockito
-Respository to exercise tests in spring project
+# Spring JUnit with Mockito  
+
+Repository to exercise tests in spring project
